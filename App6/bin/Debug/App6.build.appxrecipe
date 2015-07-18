@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>TCECSEKE</Machine>
+    <WindowsUser>tcecsekelab</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\tcecsekelab\Documents\Visual Studio 2012\Projects\App6\App6\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\tcecsekelab\Documents\Visual Studio 2012\Projects\App6\App6\bin\Debug\App6.exe">
+      <PackagePath>App6.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tcecsekelab\Documents\Visual Studio 2012\Projects\App6\App6\bin\Debug\App6.pdb">
+      <PackagePath>App6.pdb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tcecsekelab\Documents\Visual Studio 2012\Projects\App6\App6\Assets\Desktop-Backgrounds-6.jpg">
+      <PackagePath>Assets\Desktop-Backgrounds-6.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tcecsekelab\Documents\Visual Studio 2012\Projects\App6\App6\Assets\relation.jpg">
+      <PackagePath>Assets\relation.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tcecsekelab\Documents\Visual Studio 2012\Projects\App6\App6\lo.jpg">
+      <PackagePath>lo.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tcecsekelab\Documents\Visual Studio 2012\Projects\App6\App6\los.jpg">
+      <PackagePath>los.jpg</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tcecsekelab\Documents\Visual Studio 2012\Projects\App6\App6\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tcecsekelab\Documents\Visual Studio 2012\Projects\App6\App6\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tcecsekelab\Documents\Visual Studio 2012\Projects\App6\App6\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tcecsekelab\Documents\Visual Studio 2012\Projects\App6\App6\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tcecsekelab\Documents\Visual Studio 2012\Projects\App6\App6\lo.png">
+      <PackagePath>lo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tcecsekelab\Documents\Visual Studio 2012\Projects\App6\App6\log.png">
+      <PackagePath>log.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tcecsekelab\Documents\Visual Studio 2012\Projects\App6\App6\logo.png">
+      <PackagePath>logo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tcecsekelab\Documents\Visual Studio 2012\Projects\App6\App6\splash.png">
+      <PackagePath>splash.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tcecsekelab\Documents\Visual Studio 2012\Projects\App6\App6\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tcecsekelab\Documents\Visual Studio 2012\Projects\App6\App6\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tcecsekelab\Documents\Visual Studio 2012\Projects\App6\App6\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tcecsekelab\Documents\Visual Studio 2012\Projects\App6\App6\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

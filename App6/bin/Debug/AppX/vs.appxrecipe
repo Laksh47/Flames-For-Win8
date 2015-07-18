@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>TCECSEKE</Machine>
+    <WindowsUser>tcecsekelab</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>507D3FA98CF0F2758CBB1393161F1511B78F81244ECB8481E9522F52D38288FD</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>aebd28f9-feba-42b0-800e-ee3d4720b365_1.0.0.3_neutral__zqjbteze03qyt</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>aebd28f9-feba-42b0-800e-ee3d4720b365_zqjbteze03qyt!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>aebd28f9-feba-42b0-800e-ee3d4720b365</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=tcecsekelab</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.3</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\tcecsekelab\Documents\Visual Studio 2012\Projects\App6\App6\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-11-09T23:55:49.612</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\tcecsekelab\Documents\Visual Studio 2012\Projects\App6\App6\bin\Debug\App6.exe">
+      <PackagePath>App6.exe</PackagePath>
+      <Modified>2012-11-09T23:55:49.534</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tcecsekelab\Documents\Visual Studio 2012\Projects\App6\App6\bin\Debug\App6.pdb">
+      <PackagePath>App6.pdb</PackagePath>
+      <Modified>2012-11-09T23:55:49.519</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tcecsekelab\Documents\Visual Studio 2012\Projects\App6\App6\Assets\Desktop-Backgrounds-6.jpg">
+      <PackagePath>Assets\Desktop-Backgrounds-6.jpg</PackagePath>
+      <Modified>2012-11-09T22:52:21.302</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tcecsekelab\Documents\Visual Studio 2012\Projects\App6\App6\Assets\relation.jpg">
+      <PackagePath>Assets\relation.jpg</PackagePath>
+      <Modified>2012-11-09T19:53:32.517</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tcecsekelab\Documents\Visual Studio 2012\Projects\App6\App6\lo.jpg">
+      <PackagePath>lo.jpg</PackagePath>
+      <Modified>2012-11-09T21:31:39.866</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tcecsekelab\Documents\Visual Studio 2012\Projects\App6\App6\los.jpg">
+      <PackagePath>los.jpg</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-11-09T21:36:30.074</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tcecsekelab\Documents\Visual Studio 2012\Projects\App6\App6\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <Modified>2012-03-16T04:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tcecsekelab\Documents\Visual Studio 2012\Projects\App6\App6\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <Modified>2012-03-16T04:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tcecsekelab\Documents\Visual Studio 2012\Projects\App6\App6\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <Modified>2012-03-16T04:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tcecsekelab\Documents\Visual Studio 2012\Projects\App6\App6\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T04:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tcecsekelab\Documents\Visual Studio 2012\Projects\App6\App6\lo.png">
+      <PackagePath>lo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-11-09T23:01:54.756</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tcecsekelab\Documents\Visual Studio 2012\Projects\App6\App6\log.png">
+      <PackagePath>log.png</PackagePath>
+      <Modified>2012-11-09T21:04:48.523</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tcecsekelab\Documents\Visual Studio 2012\Projects\App6\App6\logo.png">
+      <PackagePath>logo.png</PackagePath>
+      <Modified>2012-11-09T21:13:43.697</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tcecsekelab\Documents\Visual Studio 2012\Projects\App6\App6\splash.png">
+      <PackagePath>splash.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-11-09T21:26:26.394</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tcecsekelab\Documents\Visual Studio 2012\Projects\App6\App6\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2012-11-09T16:59:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tcecsekelab\Documents\Visual Studio 2012\Projects\App6\App6\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-06-27T00:19:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tcecsekelab\Documents\Visual Studio 2012\Projects\App6\App6\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2012-11-09T23:47:48.342</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tcecsekelab\Documents\Visual Studio 2012\Projects\App6\App6\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2012-11-09T23:55:04.875</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
